@@ -1,0 +1,12 @@
+D@hua!2025$AttBot#SecureKey
+
+
+all.ddnskey.com
+4d7pdrx
+gWuZwV9KRqy8
+
+178.80.26.69:58081
+178.80.26.69:58082
+
+accesscontroler.ddns.net:58081
+accesscontroler.ddns.net:58082
