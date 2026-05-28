@@ -1,0 +1,174 @@
+{
+  "EMPLOYEES": [
+    {
+      "Employee Name": "Admin",
+      "Password": "79FVjNIwIA",
+      "Required Hours": "00:00:00",
+      "Old Name1": "admin",
+      "Old Name2": ""
+    },
+    {
+      "Employee Name": "Abdulrahman Khan",
+      "Password": "DjUMEx9GZf",
+      "Required Hours": "09:00:00",
+      "Old Name1": "abdul rahman khan",
+      "Old Name2": ""
+    },
+    {
+      "Employee Name": "Abu Faisal",
+      "Password": "LbI4y3kEe1",
+      "Required Hours": "06:00:00",
+      "Old Name1": "abu fasil",
+      "Old Name2": ""
+    },
+    {
+      "Employee Name": "Ahmad Jararah",
+      "Password": "bBqSREELhh",
+      "Required Hours": "00:00:00",
+      "Old Name1": "ahmad jararah",
+      "Old Name2": ""
+    },
+    {
+      "Employee Name": "Ahmed Refaat",
+      "Password": "JQt2hJJvUP",
+      "Required Hours": "09:00:00",
+      "Old Name1": "ahmed refaat",
+      "Old Name2": ""
+    },
+    {
+      "Employee Name": "Aslam",
+      "Password": "gncJb9aMsx",
+      "Required Hours": "09:00:00",
+      "Old Name1": "aslam",
+      "Old Name2": ""
+    },
+    {
+      "Employee Name": "Dabas",
+      "Password": "IHMeIT6WzI",
+      "Required Hours": "09:00:00",
+      "Old Name1": "dabas",
+      "Old Name2": ""
+    },
+    {
+      "Employee Name": "Ehab",
+      "Password": "apQBL86ASh",
+      "Required Hours": "09:00:00",
+      "Old Name1": "ehab",
+      "Old Name2": ""
+    },
+    {
+      "Employee Name": "Hamed",
+      "Password": "O9x3oMKgkY",
+      "Required Hours": "09:00:00",
+      "Old Name1": "hamed",
+      "Old Name2": ""
+    },
+    {
+      "Employee Name": "Hamza nahdi",
+      "Password": "Er34khmhyH",
+      "Required Hours": "09:00:00",
+      "Old Name1": "Hamza",
+      "Old Name2": "hamza nahdi"
+    },
+    {
+      "Employee Name": "Ibrahim",
+      "Password": "JaSbu3GLSQ",
+      "Required Hours": "09:00:00",
+      "Old Name1": "ibrahim tareq",
+      "Old Name2": ""
+    },
+    {
+      "Employee Name": "Mohammad Hamza",
+      "Password": "JaSbu3GLSQ",
+      "Required Hours": "09:00:00",
+      "Old Name1": "mohammad hamza",
+      "Old Name2": ""
+    },
+    {
+      "Employee Name": "Mujahed",
+      "Password": "q6but0n89r",
+      "Required Hours": "00:00:00",
+      "Old Name1": "mujahed",
+      "Old Name2": ""
+    },
+    {
+      "Employee Name": "Omar AlNaem",
+      "Password": "xIJOWlZFpV",
+      "Required Hours": "00:00:00",
+      "Old Name1": "omar al naem",
+      "Old Name2": ""
+    },
+    {
+      "Employee Name": "Raed",
+      "Password": "gJCnbxYWzU",
+      "Required Hours": "09:00:00",
+      "Old Name1": "",
+      "Old Name2": ""
+    },
+    {
+      "Employee Name": "Ramiz",
+      "Password": "orXbikyLuv",
+      "Required Hours": "09:00:00",
+      "Old Name1": "ramiz ghassan",
+      "Old Name2": ""
+    },
+    {
+      "Employee Name": "Umar Farooq",
+      "Password": "Rp9f1OqdUA",
+      "Required Hours": "09:00:00",
+      "Old Name1": "umar farooq",
+      "Old Name2": ""
+    },
+    {
+      "Employee Name": "Zeyad",
+      "Password": "n9mhh5L2CL",
+      "Required Hours": "08:00:00",
+      "Old Name1": "zyead",
+      "Old Name2": ""
+    },
+    {
+      "Employee Name": "Kishen",
+      "Password": "5syHY4zhw9",
+      "Required Hours": "00:00:00",
+      "Old Name1": "",
+      "Old Name2": ""
+    },
+    {
+      "Employee Name": "Mohammad Fahim",
+      "Password": "KpHMNku6NZ",
+      "Required Hours": "09:00:00",
+      "Old Name1": "jayousi",
+      "Old Name2": ""
+    },
+    {
+      "Employee Name": "Thaer",
+      "Password": "Xm65mDQ92H",
+      "Required Hours": "09:00:00",
+      "Old Name1": "thaer",
+      "Old Name2": ""
+    },
+    {
+      "Employee Name": "Mohammed Al-Dosari",
+      "Password": "VL16QuJyke",
+      "Required Hours": "09:00:00",
+      "Old Name1": "",
+      "Old Name2": ""
+    }
+  ],
+  "DEVICES": [
+    {
+      "IP": "192.168.1.11",
+      "Username": "admin",
+      "Password": "Aa908070",
+      "Direction": "Out",
+      "Remote Connection Link": "accesscontroler.ddns.net:58081"
+    },
+    {
+      "IP": "192.168.1.12",
+      "Username": "admin",
+      "Password": "Aa908070",
+      "Direction": "In",
+      "Remote Connection Link": "accesscontroler.ddns.net:58082"
+    }
+  ]
+}
